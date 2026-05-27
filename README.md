@@ -33,7 +33,7 @@ O usuário inicia o atendimento selecionando seus sintomas na triagem. Após iss
 
 ---
 
-# ⚠️ Prevenção de Erros
+# ⚠️ Prevenção de Erro
 
 Para evitar que o usuário encerre a consulta por acidente, foram implementadas as seguintes soluções:
 
