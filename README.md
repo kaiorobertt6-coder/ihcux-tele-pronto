@@ -1,4 +1,4 @@
-# TelePronto — Protótipo de Baixa Fidelidade
+# TelePronto — 
 
 ## 👨‍🎓 Nome dos alunos
 - Kaio Moreira
